@@ -8,7 +8,9 @@
 - **1000+** реализованных проектов
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/Frame%204%20(2).png" alt="Узнать подробнее" width="220">
+  <a href="https://zerocoder.ru/">
+    <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/Frame%204%20(2).png" alt="Узнать подробнее" width="220">
+  </a>
 </p>
 
 ## 💡 Проекты на курсах
