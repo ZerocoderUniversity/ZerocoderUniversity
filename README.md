@@ -1,4 +1,4 @@
-![Вступление](https://github.com/ZerocoderUniversity/ZerocoderUniversity/blob/main/Frame%202%20(1).png)
+[![Вступление](картинка.png)](https://github.com/ZerocoderUniversity/ZerocoderUniversity/blob/main/Frame%202%20(1).png)
 
 ## 📚 О нас
 
