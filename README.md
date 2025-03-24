@@ -1,9 +1,9 @@
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td style="vertical-align: middle; padding-right: 16px;">
+<table style="border: none; border-collapse: collapse; border-spacing: 0;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle; padding-right: 16px;">
       <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Zerocoder Logo" width="100">
     </td>
-    <td style="vertical-align: middle;">
+    <td style="border: none; vertical-align: middle;">
       <h1 style="margin-bottom: 0;">🎓 Университет Zerocoder</h1>
       <p><strong>Добро пожаловать</strong> на официальный GitHub-профиль <a href="https://zerocoder.ru/">Университета Zerocoder</a> — лидера движения разработки <em>без кода</em>, работы с <em>нейросетями</em> и <em>современного программирования</em>.</p>
     </td>
