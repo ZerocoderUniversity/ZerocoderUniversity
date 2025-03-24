@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-| <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Zerocoder Logo" width="200">|🎓 Университет Zerocoder|
+| <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Zerocoder Logo" width="100">|##🎓 Университет Zerocoder|
 
 ## 📚 О нас
 
