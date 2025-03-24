@@ -14,33 +14,13 @@
 
 | 📁 Репозиторий | 📋 Описание | 🧩 Технологии |
 |----------------|-------------|---------------|
-| [🤖 Промпт-инжиниринг](https://github.com/ZerocoderUniversity/AI-course-prompt-engineering) | ИИ-проекты студентов по созданию и внедрению промптов и автоматизации | ChatGPT, Claude, Gemini, Hugging Face, AIPRM, AWS, и др. |
-| [📱 Мобильная разработка](https://github.com/ZerocoderUniversity/ZC-course-mobile-app-developer-) | Приложения, сделанные на зерокод-платформах | FlutterFlow, Flutter, Figma |
-| [🐍 Python с нуля](https://github.com/ZerocoderUniversity/course-python-from-scratch) | Бэкэнд, парсеры, чат-боты, AI-утилиты от начинающих разработчиков | Python, Flask, SQL, Tkinter, Pandas, Selenium, и др. |
-| [📊 Аналитик данных с нуля](https://github.com/ZerocoderUniversity/PR-course-data-analytics) | Проекты по анализу данных, BI, визуализации и автоматизации с помощью ИИ | Excel, SQL, Python, NumPy, Seaborn, BI, и др. |
-| [🎨 Веб-дизайнер](https://github.com/ZerocoderUniversity/ZC-course-web-design) | Проекты студентов по созданию адаптивных интерфейсов и сайтов без кода | Figma, Tilda, Webflow, Midjourney, Ideogram |
-| [💬 Разработчик чат-ботов](https://github.com/ZerocoderUniversity/ZC-course-chatbot-development) | От простых Telegram-ботов до AI-ассистентов с интеграциями | Python, aiogram, ChatGPT, Pandas, Salebot |
-| [🧠 Python + AI](https://github.com/ZerocoderUniversity/PR-course-python-AI) | Применение Python в связке с нейросетями и ML | Python, ChatGPT, LangChain, Flask, и др. |
-
-| 📁 Репозиторий | 📋 Описание | 🧩 Технологии |
-|------------------------------|-------------|---------------|
-| [Разработчик&nbsp;чат-ботов](#) | Курс по созданию AI-ботов | Python, GPT |
-
-
-<table>
-  <tr>
-    <th width="250">📁 Репозиторий</th>
-    <th>📋 Описание</th>
-    <th>🧩 Технологии</th>
-  </tr>
-  <tr>
-    <td><a href="#">Разработчик чат-ботов под ключ</a></td>
-    <td>Курс по созданию AI-ботов</td>
-    <td>Python, GPT</td>
-  </tr>
-</table>
-
-
+| [🤖&nbsp;Промпт-инжиниринг](https://github.com/ZerocoderUniversity/AI-course-prompt-engineering) | ИИ-проекты студентов по созданию и внедрению промптов и автоматизации | ChatGPT, Claude, Gemini, Hugging Face, AIPRM, AWS, и др. |
+| [📱&nbsp;Мобильная&nbsp;разработка](https://github.com/ZerocoderUniversity/ZC-course-mobile-app-developer-) | Приложения, сделанные на зерокод-платформах | FlutterFlow, Flutter, Figma |
+| [🐍&nbsp;Python&nbsp;с&nbsp;нуля](https://github.com/ZerocoderUniversity/course-python-from-scratch) | Бэкэнд, парсеры, чат-боты, AI-утилиты от начинающих разработчиков | Python, Flask, SQL, Tkinter, Pandas, Selenium, и др. |
+| [📊&nbsp;Аналитик&nbsp;данных&nbsp;с&nbsp;нуля](https://github.com/ZerocoderUniversity/PR-course-data-analytics) | Проекты по анализу данных, BI, визуализации и автоматизации с помощью ИИ | Excel, SQL, Python, NumPy, Seaborn, BI, и др. |
+| [🎨&nbsp;Веб-дизайнер](https://github.com/ZerocoderUniversity/ZC-course-web-design) | Проекты студентов по созданию адаптивных интерфейсов и сайтов без кода | Figma, Tilda, Webflow, Midjourney, Ideogram |
+| [💬&nbsp;Разработчик&nbsp;чат-ботов](https://github.com/ZerocoderUniversity/ZC-course-chatbot-development) | От простых Telegram-ботов до AI-ассистентов с интеграциями | Python, aiogram, ChatGPT, Pandas, Salebot |
+| [🧠&nbsp;Python&nbsp;+&nbsp;AI](https://github.com/ZerocoderUniversity/PR-course-python-AI) | Применение Python в связке с нейросетями и ML | Python, ChatGPT, LangChain, Flask, и др. |
 
 
 ℹ️ *Эта страница будет регулярно пополняться — заходите почаще и вдохновляйтесь!*
