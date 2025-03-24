@@ -1,6 +1,6 @@
 <table style="border: none; border-collapse: collapse; border-spacing: 0;">
   <tr style="border: none;">
-    <td style="border: none; vertical-align: middle; padding-right: 16px;">
+    <td style="border: none; vertical-align: middle; padding-right: 32px;">
       <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Zerocoder Logo" width="100">
     </td>
     <td style="border: none; vertical-align: middle;">
