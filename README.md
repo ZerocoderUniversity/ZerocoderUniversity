@@ -1,10 +1,14 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Логотип Университета Zerocoder" width="150"/>
-</div>
-
-# Университет Zerocoder
-
-Добро пожаловать на официальный GitHub-профиль [Университета Zerocoder](https://zerocoder.ru/) — лидера движения разработки без кода, работы с нейросетями и современного программирования.
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Логотип Университета Zerocoder" width="150"/>
+    </td>
+    <td>
+      <h1>Университет Zerocoder</h1>
+      <p>Добро пожаловать на официальный GitHub-профиль <a href="https://zerocoder.ru/">Университета Zerocoder</a> — лидера движения разработки без кода, работы с нейросетями и современного программирования.</p>
+    </td>
+  </tr>
+</table>
 
 ## О нас
 
