@@ -1,6 +1,6 @@
 
 <h1 style="margin-bottom: 0;">🎓 Университет Zerocoder</h1>
-<img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Zerocoder Logo" width="100">|Добро пожаловать</strong> на официальный GitHub-профиль <a href="https://zerocoder.ru/">Университета Zerocoder</a> — лидера движения разработки <em>без кода</em>, работы с <em>нейросетями</em> и <em>современного программирования
+<img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Zerocoder Logo" width="100"> | Добро пожаловать</strong> на официальный GitHub-профиль <a href="https://zerocoder.ru/">Университета Zerocoder</a> — лидера движения разработки <em>без кода</em>, работы с <em>нейросетями</em> и <em>современного программирования
 
 ## 📚 О нас
 
