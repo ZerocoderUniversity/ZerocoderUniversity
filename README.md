@@ -1,15 +1,9 @@
-<table>
-  <tr>
-    <td width="120">
-      <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Zerocoder Logo" width="100">
-    </td>
-    <td>
-      <h1>🎓 Университет Zerocoder</h1>
-      <p><strong>Добро пожаловать на официальный GitHub-профиль <a href="https://zerocoder.ru/">Университета Zerocoder</a></strong> — лидера движения разработки <em>без кода</em>, работы с <em>нейросетями</em> и <em>современного программирования</em>.</p>
-    </td>
-  </tr>
-</table>
-
+<p>
+  <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Zerocoder Logo" width="100" style="float: left; margin-right: 20px;"/>
+  <strong><span style="font-size: 1.6em;">🎓 Университет Zerocoder</span></strong><br/>
+  Добро пожаловать на официальный GitHub-профиль <a href="https://zerocoder.ru/">Университета Zerocoder</a> — лидера движения разработки <em>без кода</em>, работы с <em>нейросетями</em> и <em>современного программирования</em>.
+</p>
+<br clear="all"/>
 
 ---
 
