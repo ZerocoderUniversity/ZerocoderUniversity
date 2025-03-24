@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="vertical-align: middle; padding-right: 16px;">
+    <td style="vertical-align: middle; padding-right: 34px;">
       <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/0qode_symbol_5.png" alt="Zerocoder Logo" width="60">
     </td>
     <td style="vertical-align: middle;">
