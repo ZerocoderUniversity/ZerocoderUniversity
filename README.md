@@ -1,4 +1,4 @@
-![Текст для alt]([https://your-image-url.com/image.png](https://github.com/ZerocoderUniversity/ZerocoderUniversity/blob/main/Frame%202%20(1).png)
+![Текст для alt](https://github.com/ZerocoderUniversity/ZerocoderUniversity/blob/main/Frame%202%20(1).png)
 
 
 ## 📚 О нас
