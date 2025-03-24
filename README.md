@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/Frame%202%20(1).png" alt="Кнопка" width="240">
-</p>
-
+[![Текст для alt](https://raw.githubusercontent.com/ZerocoderUniversity/ZerocoderUniversity/main/Frame%202%20(1).png)](https://zerocoder.ru/)
 
 
 ## 📚 О нас
